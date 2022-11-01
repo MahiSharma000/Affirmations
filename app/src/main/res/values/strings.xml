@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MOVIES</string>
+    <string name="movie1">Oldboy.</string>
+    <string name="movie2">Tae Guk Gi: The Brotherhood of War .</string>
+    <string name="movie3"> The Host.</string>
+    <string name="movie4"> The Good the Bad the Weird.</string>
+    <string name="movie5">Memories of Murder.</string>
+    <string name="movie6">I Saw the Devil.</string>
+    <string name="movie7">The Man from Nowhere.</string>
+    <string name="movie8">Joint Security Area.</string>
+    <string name="movie9">Nowhere to Hide.</string>
+    <string name="movie10">A Bittersweet Life .</string>
+    <string name="movie11">No Blood, No Tears .</string>
+    <string name="movie12">Save the Green Planet!.</string>
+    <string name="movie13">Public Enemy.</string>
+    <string name="movie14">Friend (I).</string>
+    <string name="movie15">Masquerade.</string>
+    <string name="movie16">Sunflower .</string>
+    <string name="movie17">The Chaser.</string>
+    <string name="movie18"> Take Off.</string>
+    <string name="movie19">The Thieves.</string>
+    <string name="movie20">Silmido.</string>
+</resources>
